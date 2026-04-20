@@ -1,14 +1,14 @@
 # projects-in-C-language
 
-📚 Этот репозиторий — архив моих первых шагов в программировании. Здесь собраны проекты, написанные на языке программирования **C** в течение 1 курса.
+📚 This repository is an archive of my first steps in programming. It contains projects written in the **C** programming language during my 1st year of study.
 
-## 📁 Содержание
+## 📁 Contents
 
-| Тип работы | Описание |
+| Type | Description |
 | :--- | :--- |
-| **Лабораторные работы** | Охватывают основы языка C: ввод-вывод, условные операторы, циклы, массивы, строки, указатели, структуры, работа с файлами |
-| **Практика** | Учебный проект — первое приложение, где я применяла полученные знания на практике |
+| **Laboratory Works** | Cover the fundamentals of C: input/output, conditional statements, loops, arrays, strings, pointers, structures, file handling |
+| **Practice Project** | A training project — my first application where I applied the acquired knowledge in practice |
 
 ---
 
-С помощью этих лабораторных работ и практического проекта я изучала основы программирования и закладывала фундамент для дальнейшего развития в IT.
+Through these laboratory works and the practice project, I learned the basics of programming and built the foundation for further growth in IT.
