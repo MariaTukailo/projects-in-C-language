@@ -4,10 +4,10 @@
 
 ## 📁 Contents
 
-| Type | Description |
-| :--- | :--- |
-| **Laboratory Works** | Cover the fundamentals of C: input/output, conditional statements, loops, arrays, strings, pointers, structures, file handling |
-| **Practice Project** | A training project — my first application where I applied the acquired knowledge in practice |
+| Type | Description | Location |
+| :--- | :--- | :--- |
+| **Laboratory Works** | Cover the fundamentals of C: input/output, conditional statements, loops, arrays, strings, pointers, structures, file handling | [`labs/`](./labs) |
+| **Practice Project** | A training project — my first application where I applied the acquired knowledge in practice | [`practice/`](./practice) |
 
 ---
 
