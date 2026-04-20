@@ -1,4 +1,4 @@
-# 📚 Laboratory Works — Semester 1
+# 📚 Laboratory Works — Term 1
 
 ---
 
