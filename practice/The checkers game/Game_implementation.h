@@ -1,0 +1,1 @@
+void Game(char* name_player, int* point);

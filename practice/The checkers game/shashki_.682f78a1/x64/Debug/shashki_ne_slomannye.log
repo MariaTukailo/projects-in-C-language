@@ -1,0 +1,40 @@
+﻿  Checking.c
+  Game_implementation.c
+E:\практика\shashki_ne_slomannye\Game_implementation.c(231,81): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(231,81): warning C4024: Displaying_the_game_space_on_the_screen: различные типы для формального и фактического параметров 3
+E:\практика\shashki_ne_slomannye\Game_implementation.c(374,110): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(374,110): warning C4024: Taking_checkers_and_checking_moves: различные типы для формального и фактического параметров 7
+E:\практика\shashki_ne_slomannye\Game_implementation.c(409,110): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(409,110): warning C4024: Taking_checkers_and_checking_moves: различные типы для формального и фактического параметров 7
+E:\практика\shashki_ne_slomannye\Game_implementation.c(514,81): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(514,81): warning C4024: Displaying_the_game_space_on_the_screen: различные типы для формального и фактического параметров 3
+E:\практика\shashki_ne_slomannye\Game_implementation.c(577,116): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(577,116): warning C4024: Taking_checkers_and_checking_movesFRIEND: различные типы для формального и фактического параметров 7
+E:\практика\shashki_ne_slomannye\Game_implementation.c(615,116): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(615,116): warning C4024: Taking_checkers_and_checking_movesFRIEND: различные типы для формального и фактического параметров 7
+E:\практика\shashki_ne_slomannye\Game_implementation.c(933,136): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\практика\shashki_ne_slomannye\Game_implementation.c(933,136): warning C4024: Displaying_the_game_space_on_the_screen: различные типы для формального и фактического параметров 6
+  Graphic_elements.c
+  Main_menu.c
+E:\практика\shashki_ne_slomannye\Main_menu.c(8,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\практика\shashki_ne_slomannye\Main_menu.c(116,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\практика\shashki_ne_slomannye\Main_menu.c(127,40): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+      E:\практика\shashki_ne_slomannye\Main_menu.c(127,40):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  
+E:\практика\shashki_ne_slomannye\Main_menu.c(130,38): warning C4047: функция: "PLAYER *" отличается по уровням косвенного обращения от "PLAYER **"
+E:\практика\shashki_ne_slomannye\Main_menu.c(130,38): warning C4024: Checking_memory_allocationPLAYER: различные типы для формального и фактического параметров 1
+E:\практика\shashki_ne_slomannye\Main_menu.c(141,49): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+      E:\практика\shashki_ne_slomannye\Main_menu.c(141,49):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  
+E:\практика\shashki_ne_slomannye\Main_menu.c(256,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\практика\shashki_ne_slomannye\Main_menu.c(269,38): warning C4047: функция: "PLAYER *" отличается по уровням косвенного обращения от "PLAYER **"
+E:\практика\shashki_ne_slomannye\Main_menu.c(269,38): warning C4024: Checking_memory_allocationPLAYER: различные типы для формального и фактического параметров 1
+E:\практика\shashki_ne_slomannye\Main_menu.c(296,42): warning C4047: функция: "PLAYER *" отличается по уровням косвенного обращения от "PLAYER **"
+E:\практика\shashki_ne_slomannye\Main_menu.c(296,42): warning C4024: Checking_memory_allocationPLAYER: различные типы для формального и фактического параметров 1
+  Source.c
+  Создание кода...
+E:\практика\shashki_ne_slomannye\Game_implementation.c(1649,1): warning C4715: A_bot_pass_aimed_at_taking_checkers: значение возвращается не при всех путях выполнения
+E:\практика\shashki_ne_slomannye\Game_implementation.c(1697,1): warning C4715: The_passage_of_the_bot_aimed_at_safe_passage: значение возвращается не при всех путях выполнения
+  shashki_ne_slomannye.vcxproj -> E:\практика\shashki_ne_slomannye\x64\Debug\shashki_ne_slomannye.exe
